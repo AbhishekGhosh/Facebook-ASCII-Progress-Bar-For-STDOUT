@@ -14,6 +14,8 @@ do echo "$(tput setaf $i)This is ($i) $(tput sgr0)";
 done
 ````
 
+Application : Depends on your need. From IoT Capable devices to simple server monitoring. It is an ASCII output. I did the calculation for my own need. May be, you are getting issue with printing on Facebook. I already calcuated, so no need to calculate again.
+
 Facebook ASCII Progress Bar For STDOUT. Proper calculation done for data visualization and printing on Facebook APP or Status Update with Python, Ruby, Perl, PHP etc.
 
 ````
