@@ -29,3 +29,5 @@ Facebook ASCII Progress Bar For STDOUT. Proper calculation done for data visuali
 █████████████████████████
 
 ````
+
+See Example-Explanation.sh for explanation. See : https://github.com/yiisoft/yii2/pull/3367 for issues.
